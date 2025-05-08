@@ -1,0 +1,84 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    font-size: xx-large;
+    margin-left: 20px;
+    margin-top: 60px;
+    color: black;
+}
+
+.firstpara{
+    font-size: x-large;
+    word-spacing: 3px;
+    height: 120px;
+    width: 50%;
+    text-align: center;
+    padding:10px 10px 10px 10px;
+    border-radius: 8px;
+    margin-left: 290px;
+    background-color:orange;
+    margin-top: 50px;
+}
+
+a{
+    margin-left: 250px;
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    font-weight: 700;
+    font-style: italic;
+    width: 900px;
+    position: relative;
+    bottom: 10px;
+}
+
+a:hover{
+    color: yellow;
+    background-color: orangered;
+    letter-spacing: 3px;
+}
+
+.mission{
+    font-size: x-large;
+    word-spacing: 3px;
+    height: 100px;
+    width: 50%;
+    text-align: center;
+    padding:10px 10px 10px 10px;
+    border-radius: 8px;
+    margin-left: 290px;
+    background-color: orange;
+    margin-top: 50px;
+}
+
+.vision{
+    font-size: x-large;
+    word-spacing: 3px;
+    height: 100px;
+    width: 50%;
+    text-align: center;
+    padding:10px 10px 10px 10px;
+    border-radius: 8px;
+    margin-left: 290px;
+    background-color: orange;
+    margin-top: 50px;
+}
+
+h2{
+    font-size: xx-large;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    color: black;
+}
+
+footer p{
+    background-color: orangered;
+    color: yellow;
+    text-align: center;
+    font-weight: 800;
+    padding:5px;
+    margin-top: 50px;
+}
